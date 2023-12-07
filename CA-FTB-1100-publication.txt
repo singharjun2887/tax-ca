@@ -1,0 +1,968 @@
+B. Tax Computation Method
+For taxable years beginning on or after January 1, 2002, if you are a nonresident or a part-year resident, you determine your California tax by multiplying your California taxable income by an effective tax rate. The effective tax rate is the California tax on all income as if you were a California resident for the current taxable year and for all prior taxable years for any carryover items, deferred income, suspended losses, or suspended deductions, divided by that income. Use the following formula:
+
+Prorated tax = CA taxable income × Tax on total taxable income ÷ Total taxable income
+
+Key Definitions
+California Taxable Income
+California adjusted gross income (AGI) less California itemized or standard deductions.
+California AGI
+Gross income and deductions derived from California sources for any part of the taxable year during which you were a nonresident plus all items of gross income and all deductions, regardless of source, for any part of the taxable year during which you were a resident.
+Total AGI
+The adjusted gross income from all sources for the entire taxable year.
+California Itemized or Standard Deductions
+Determined by applying the ratio of California AGI to total AGI to all itemized or standard deductions allowed to California residents.
+Total Taxable Income
+The entire taxable income determined as if you were a California resident for the current taxable year and for all prior taxable years for any carryover items, deferred income, suspended losses, or suspended deductions.
+Restate
+To refigure prior year carryovers or pass-through entity basis amounts to determine the allowable amount in the current year. Prior year tax returns are not amended.
+Registered Domestic Partner (RDP)
+Two persons who filed a Declaration of Domestic Partnership with the California Secretary of State.
+Percentage Calculations
+Apply ratios as described for the following items to determine the CA amount.
+
+Itemized or Standard Deductions - Divide the California AGI by the total AGI (the result cannot exceed 1.0):
+
+CA AGI ÷ Total AGI
+
+Tax Rate - Divide the tax on total taxable income by the total taxable income:
+
+Tax on total taxable income ÷ Total taxable income
+
+Credits - Divide the California taxable income by the total taxable income:
+
+CA taxable income ÷ Total taxable income
+
+This percentage does not apply to renter’s credit, other state tax credit, or credits conditional upon a transaction occurring wholly within California. California allows these credits in full.
+
+The following example shows how the calculation works.
+
+Example 1
+You were a Florida resident until March 31, 2010. While a Florida resident, you earned and received wage income of $15,000 and interest income of $1,000. On April 1, 2010, you permanently moved to California. While a California resident, you earned and received wage income of $65,000 and interest income of $3,000. You are single and had the following itemized deductions in 2010:
+
+Real estate taxes, CA house	$1,200
+Real estate taxes, FL house	800
+Mortgage interest, CA house	17,000
+Mortgage interest, FL house	3,500
+Charitable contribution, NY Firefighters’ Fund	1,500
+Total:	$24,000
+Determination
+Calculate your 2010 California tax liability as follows:
+
+CA wages	$65,000
+Interest earned while a CA resident	+ 3,000
+CA AGI:	$68,000
+Wages from all sources	$80,000
+Interest income from all sources	+ 4,000
+Total AGI:	$84,000
+Total itemized deductions	$24,000
+CA AGI ÷ Total AGI	× .8095
+CA itemized deductions:	$19,428
+CA AGI	$68,000
+CA itemized deductions	- 19,428
+CA taxable income:	$48,572
+Total AGI	$84,000
+Total itemized deductions	- 24,000
+Total taxable income:	$60,000
+Tax on total taxable income: (from Tax table)	$ 3,440
+CA taxable income	$48,572
+Tax on total taxable income ÷ total taxable income	× .0573
+Prorated tax:	$ 2,783
+Personal exemption credit	$ 99
+CA taxable income ÷ total taxable income	× .8095
+Prorated exemption credit:	$ 80
+Prorated tax	$ 2,783
+Prorated exemption credit	− 80
+Tax liability:	$ 2,703
+C. Installment Sales
+For taxable years beginning on or after January 1, 2002, California taxes installment gains received by a nonresident from the sale of tangible property and intangible property that is sourced to California. California taxes real property based upon where the property is located. Installment gains from the sale of intangible property are generally sourced to the recipient’s state of residence at the time of the sale. California taxes residents on all income regardless of source.
+
+Always a Nonresident
+California taxes the installment proceeds received by a nonresident to the extent the income from the sale was from a California source.
+
+Example 2
+You have always been a nonresident of California. On March 1, 2009, you sold a California rental property in an installment sale. During 2009 and 2010, you received installment proceeds comprised of capital gain income and interest income.
+
+Determination
+The capital gain income is taxable by California in both 2009 and 2010, because the property was located in California. The interest income is not taxable by California and has a source in your state of residence.
+
+Example 3
+You have always been a nonresident of California. On June 4, 2009, you sold a parcel of land located in Idaho on an installment basis. During 2009 and 2010, you received installment proceeds comprised of capital gain income and interest income.
+
+Determination
+Your capital gain income is not taxable by California because the source of the gain is Idaho. The interest income is not taxable by California and has a source in your state of residence.
+
+Change of Residency to California (move in)
+If you are a California resident who sold property located outside California on the installment basis while a nonresident, your installment proceeds while a California resident are now taxable by California.
+
+Example 4
+On July 1, 2009, while a nonresident of California, you sold a Texas rental property in an installment sale. On May 15, 2010, you became a California resident and on August 1, 2010, you received installment proceeds comprised of capital gain income and interest income.
+
+Determination
+Your capital gain income and interest income received on August 1, 2010, are taxable by California because you were a California resident when you received the proceeds.
+
+Example 5
+On September 1, 2008, while a nonresident of California, you sold stock (intangible property) in an installment sale. On June 1, 2010, you became a California resident and on October 1, 2010, you received installment proceeds comprised of capital gain income and interest income.
+
+Determination
+Your capital gain income and interest income received on October 1, 2010, are taxable by California because you were a California resident when you received the proceeds.
+
+Change of Residency From California (move out)
+If you are a former California resident, your installment proceeds from the sale of property located outside California that you sold while you were a California resident are not taxable by California.
+
+Example 6
+In June 2007, while a California resident, you sold a parcel of real property located in Washington in an installment sale. On March 1, 2010, you became an Ohio resident, and on June 1, 2010, you received installment proceeds comprised of capital gain income and interest income.
+
+Determination
+The capital gain income is not taxable by California because the property was not located in California. The interest income is not taxable by California because you were a nonresident of California when you received the proceeds.
+
+Example 7
+In March 2008, while a California resident, you sold a parcel of real property located in California in an installment sale. On June 1, 2010, you became a Washington resident, and on August 1, 2010, you received installment proceeds comprised of capital gain income and interest income.
+
+Determination
+The capital gain income is taxable by California because the property you sold was located in California. The interest income is not taxable by California because you were a nonresident of California when you received the proceeds.
+
+Example 8
+In September 2007, while a California resident, you sold stock (intangible property) in an installment sale. On February 1, 2010, you became a Florida resident, and on May 1, 2010, you received installment proceeds comprised of capital gain income and interest income.
+
+Determination
+The capital gain income from the sale of the stock is taxable by California because you were a California resident when you sold the stock. The interest income is not taxable by California because you were a nonresident of California when you received the proceeds.
+
+D. Individual Retirement Accounts, Employer-Sponsored Retirement Plans, and Compensation
+Nonresident
+California does not tax the IRA distributions, qualified pension, profit sharing, and stock bonus plans of a nonresident. California taxes compensation received by a nonresident for performance of services in California.
+
+Example 9
+You are a nonresident of California and live and work in Wyoming. Your Wyoming employer temporarily assigns you to California for four months to complete a project. You continue to receive your paycheck from your employer’s Wyoming headquarters. You earn $5,000 per month.
+
+Determination
+Because you performed four months of services in California, $20,000 ($5,000 × 4 months) of your compensation has a source in California and is taxable by California.
+
+Example 10
+You lived and worked exclusively in California until you retired on December 31, 2009. You moved to Nevada on January 1, 2010. Your former California employer pays its employees on the 5th of every month. On January 10, 2010, you received in the mail your last paycheck of $4,000 from your former California employer.
+
+Determination
+The $4,000 of compensation is taxable by California because the income has a source in California, the state where you performed your services.
+
+Change of Residency to California (move in)
+For taxable years beginning on or after January 1, 2002, the present laws affect the taxation of your IRA income, income from employer - sponsored retirement plans, and compensation income if you are a California resident and were formerly a nonresident.
+
+Individual Retirement Accounts
+California does not allow stepped-up basis for annual contributions and earnings on them for contributions made while a nonresident.
+
+The present laws treat you as though you were a resident for all prior years for all items of deferred income, which includes IRAs. Accordingly, you will be allowed a basis for contributions that you actually made, which would not have been allowed under California law had you been a California resident.
+
+California did not conform to the $2,000 or 100 percent of compensation annual contribution limit permitted under federal law from 1982 through 1986. During these years, California limited the deduction to the lesser of 15 percent of compensation or $1,500 and denied a deduction altogether to individuals who were active participants in qualified or government plans. Any amounts an individual contributed in excess of California deduction limits during these years create a basis in the IRA.
+
+Example 11
+You became a California resident on January 1, 2001. The fair market value of your IRA on January 1, 2001, was $9,000. Your contributions in excess of California deduction limits during 1982‑1986 were $2,500. You received IRA distributions of $1,500 in 2001, $3,000 in 2002, and $2,000 in 2003.
+
+Determination
+Taxable year 2001 (prior law):
+CA IRA basis, January 1, 2001	$9,000
+Less: IRA distribution	1,500
+CA IRA basis, December 31, 2001	$7,500
+
+Taxable year 2002 (new law):
+IRA distribution, 2002	$3,000
+Less: CA IRA basis
+Contributions in excess of CA deduction limits	$2,500	
+Less: CA IRA basis recovered in 2001	1,500	
+CA IRA basis available in 2002	1,000
+Taxable IRA income	$2,000
+
+California IRA basis, December 31, 2002, is $-0-.
+
+Taxable year 2003:
+IRA distribution, 2003	2,000
+Less: California IRA basis available in 2003	-0-
+Taxable IRA income	$2,000
+Get FTB Publication 1005, Pension and Annuity Guidelines, for more information regarding IRAs.
+
+Employer-Sponsored Retirement Plans
+California taxes residents on all income regardless of source.
+
+Example 12
+You permanently moved from Florida to California on January 1, 2009. You received pension income during 2009 through a qualified plan from your former Florida employer.
+
+Determination
+Your qualified pension income is taxable by California because you were a California resident when you received the income.
+
+Compensation
+California taxes residents on all income regardless of source.
+
+Example 13
+You lived and worked in New York until April 30, 2010. You permanently moved to California on May 1, 2010. Your former New York employer pays their employees on the 5th of every month. On May 8, 2010, you received in the mail your last paycheck of $3,000 from your former New York employer.
+
+Determination
+The $3,000 of compensation is taxable by California because you were a California resident when you received the income. If you also paid tax to New York on this compensation, you are allowed a credit for taxes paid.
+
+Get California Schedule S, Other State Tax Credit, for more information.
+
+E. Stock Options
+Nonresident
+California taxes the wage income received by a nonresident from employee stock options on a source basis, whether you were always a nonresident or were formerly a California resident.
+
+Example 14
+On February 1, 2007, while a California resident, you were granted nonstatutory stock options. You performed all of your services in California from February 1, 2007, to May 1, 2010, the date you left the company and permanently moved to Texas. On June 1, 2010, you exercised your nonstatutory stock options.
+
+Determination
+The income resulting from the exercise of your nonstatutory stock options is taxable by California because the income is compensation for services having a source in California, the state where you performed all of your services.
+
+Change of Residency to California (move in)
+If you exercise nonstatutory stock options while a California resident, the resulting compensation is taxable by California because the wage income is recognized while you are a California resident.
+
+If you dispose of statutory stock options in a disqualifying disposition, the resulting compensation and capital gain, if any, are taxable by California because the wage income and capital gain are recognized while you are a California resident.
+
+California also taxes the capital gain income received by a former nonresident from the sale of stock in a qualifying disposition of statutory stock options because the stock is sold while the taxpayer is a resident.
+
+Example 15
+On March 1, 2006, while a Nevada resident, you were granted nonstatutory stock options. On April 1, 2010, you retired and permanently moved to California. On May 1, 2010, you exercised your options.
+
+Determination
+The compensation resulting from the exercise of your nonstatutory stock options is taxable by California because you were a California resident when the income was recognized.
+
+California also taxes the capital gain income received by a former nonresident from the sale of stock in a qualifying disposition of statutory stock options because the stock is sold while the taxpayer is a resident.
+
+Example 16
+On February 1, 2006, while a Texas resident, you were granted incentive stock options. On February 1, 2009, you exercised your options. On December 1, 2009, you permanently moved to California and sold your stock on March 1, 2010, for a gain.
+
+Determination
+The resulting capital gain is taxable by California because you were a California resident when you sold the stock.
+
+Get FTB Publication 1004, Stock Option Guidelines, for additional information on the California taxation of stock options.
+
+F. Deferred Gains and Losses (like-kind exchanges)
+When you exchange one kind of property for the same kind of property under the requirements of Internal Revenue Code (IRC) Section 1031, you realize a gain or loss on the transaction and defer paying tax on the gain or claiming the loss until the property is sold or otherwise disposed of. A gain or loss from the sale or exchange of real or tangible personal property located in California is sourced to California at the time the gain or loss is realized.
+
+California Property Exchanged for Out-of-State Property
+If you are a nonresident and exchange real or tangible property located within California for real or tangible property located outside California, the realized gain or loss will be sourced to California. Taxation will not occur until the gain or loss is recognized.
+
+For taxable years beginning on or after January 1, 2014, California Revenue and Taxation Code (R&TC) Sections 18032 and 24953 require California resident and nonresident taxpayers who defer gain on the sale or exchange of California property for out-of-state replacement property under IRC Section 1031 to file an annual information return with FTB. All taxpayers, regardless of residence status or commercial domicile, who exchange real property located in California for like-kind property located outside of California, must file form FTB 3840 with their California tax return. Taxpayers who exchange multiple assets involving both real and personal property located in California for like-kind property located outside of California are also subject to this requirement. Taxpayers who exchange only personal property assets are not required to file form FTB 3840.
+
+Example 17
+As a resident of Texas, you exchanged a condominium located in California for like-kind property located in Texas. You realized a gain of $15,000 on the exchange that was properly deferred under IRC Section 1031. You then sold the Texas property in a nondeferred transaction and recognized a gain of $20,000.
+
+Determination
+The $15,000 deferred gain (the lesser of the deferred gain or the gain recognized at the time you disposed of the Texas property) has a source in California and is taxable by California.
+
+Out-of-State Property Exchanged for California Property
+If you exchange real or tangible property located outside California for real or tangible property located within California, the gain recognized when you sell or otherwise dispose of the California property in a nondeferred transaction has a California source and is taxable by California.
+
+Example 18
+As a resident of Nevada, you exchanged Nevada business property for like-kind California business property. You realized a $10,000 gain on the exchange that was properly deferred under IRC Section 1031. You then sold the California business property in a nondeferred transaction and recognized a gain of $50,000.
+
+Determination
+$40,000 of gain has a California source and is taxable by California.
+
+Example 19
+While a resident of Kansas, you exchanged real property located in Kansas for like‑kind real property located in California. You realized a $12,000 gain on the exchange that was properly deferred under IRC Section 1031. You then became a California resident and, while a resident, you sold the California property in a nondeferred transaction and recognized a gain of $40,000.
+
+Determination
+California taxes the $40,000 gain because you were a California resident at the time of the sale. If you paid tax to Kansas on the $12,000 deferred gain, you are allowed a credit for taxes paid.
+
+G. Gains and Losses From the Sale of Trade or Business Property
+When you sell property used in a trade or business or certain involuntary conversions (IRC Section 1231 property), losses are netted against gains. If Section 1231 losses exceed Section 1231 gains, the losses receive ordinary tax treatment. If Section 1231 gains exceed Section 1231 losses, the gains receive capital gain tax treatment. Section 1231 gains and losses retain this characterization regardless of whether you change your residency status.
+
+For purposes of computing California taxable income, net only California source Section 1231 gains and losses.
+
+Example 20
+You are a resident of Washington. In 2010, your California and non-California source Section 1231 gains and losses included a $3,000 California gain, a $2,000 California loss, a $4,000 Washington gain, and a $5,000 Washington loss.
+
+Determination
+Based upon the netting of your total and California source Section 1231 gains and losses, determine your capital gain or ordinary loss as follows:
+
+Taxable Year 2010	Total Taxable Income	CA Taxable Income
+CA Section 1231 gain	$ 3,000	$ 3,000
+CA Section 1231 loss	(2,000)	(2,000)
+WA Section 1231 gain	4,000	
+WA Section 1231 loss	(5,000)	
+Capital gain	$ 0	$1,000
+Example 21
+You are a resident of Florida. In 2010, your California and non‑California source Section 1231 gains and losses included a $2,500 California gain, a $3,000 California loss, a $1,000 Florida gain, and a $500 Florida loss.
+
+Determination
+Based upon the netting of your total and California source Section 1231 gains and losses, determine your capital gain or ordinary loss as follows:
+
+Taxable Year 2010	Total Taxable Income	CA Taxable Income
+CA Section 1231 gain	$ 2,500	$ 2,500
+CA Section 1231 loss	(3,000)	(3,000)
+FL Section 1231 gain	1,000	
+FL Section 1231 loss	(500)	
+Ordinary loss	$ 0	$ ( 500)
+H. Capital Gains and Losses
+For taxable years beginning on or after January 1, 2002, the present laws provide rules for determining capital loss carryovers and limitations if you are a nonresident of California or if you change your residency status.
+
+Always a Nonresident
+If you have always been a nonresident of California, you determine capital loss carryovers and capital loss limitations based only upon California source income and loss items in order to compute California taxable income.
+
+Example 22
+You have always been a New York resident. In 2009, your California and non-California source capital gains and losses included California capital gains of $2,000, California capital losses of $6,000, New York capital gains of $5,000, and New York capital losses of $2,000. You had no capital loss carryovers prior to 2009.
+
+Determination
+Net your capital gains and losses to determine the capital losses allowed in 2009 (the $3,000 limitation applies) and the capital loss carryover to 2010.
+
+Taxable Year 2009	Total Taxable Income	CA Taxable Income
+CA capital gain	$ 2,000	$ 2,000
+CA capital loss	(6,000)	(6,000)
+NY capital gain	5,000	
+NY capital loss	(2,000)	
+Total	$(1,000)	$(4,000)
+Capital loss allowed in 2009	1,000	3,000
+Capital loss carryover to 2010	$ 0	$(1,000)
+Change of Residency to California (move in)
+For taxable years beginning on or after January 1, 2002, if you have capital loss carryovers and were a nonresident of California in prior years, the capital loss carryovers need to be restated as if you had been a California resident for all prior years.
+
+Example 23
+Assume the same facts as Example 22. On January 1, 2010, you become a California resident. During 2010, you sell property located in Wyoming for a capital gain of $5,000 and incur a $4,000 capital loss from the sale of property located in California.
+
+Determination
+Step 1: Restate your 2009 capital loss carryover as if you had been a California resident for all prior years.
+
+2009 Restatement:	Total Taxable Income
+CA capital gain	$ 2,000
+CA capital loss	(6,000)
+NY capital gain	5,000
+NY capital loss	(2,000)
+Total	$(1,000)
+Capital loss allowed in 2009	1,000
+Capital loss carryover to 2010	$ 0
+Step 2: Net your capital gains and losses to determine the amount of capital gain income to include in total taxable income.
+
+Taxable Year 2010	Total Taxable Income
+CA capital loss	$ (4,000)
+WY capital gain	5,000
+Capital loss carryover	0
+Capital gain income	$ 1,000
+Change of Residency From California (move out)
+For taxable years beginning on or after January 1, 2002, if you have capital loss carryovers and you become a nonresident of California, your capital loss carryovers need to be restated as if you had been a nonresident of California for all prior years.
+
+Example 24
+Assume the same facts as Examples 22 and 23. On January 1, 2011, you become a nonresident of California again. During 2011, you sell property located in Texas for a capital gain of $8,000, sell property located in California for a $9,000 capital gain, and incur a $5,000 capital loss from the sale of property located in California.
+
+Determination
+Step 1: Restate your capital loss carryovers as if you had been a nonresident of California for all prior years by netting your capital gains and losses from California sources only.
+
+2009 Restatement:
+Total Taxable Income	CA Taxable Income
+CA capital gain	$ 2,000	$ 2,000
+CA capital loss	(6,000)	(6,000)
+NY capital gain	5,000	
+NY capital loss	(2,000)	
+Total	$(1,000)	$(4,000)
+Capital loss allowed in 2009	1,000	3,000
+Capital loss carryover to 2010	$ 0	$(1,000)
+2010 Restatement:
+Total Taxable Income	CA Taxable Income
+CA capital loss, 2010	$ (4,000)	$ (4,000)
+WY capital gain	5,000	
+Capital loss carryover from 2009		(1,000)
+Capital gain or loss	$ 1,000	$ (5,000)
+Capital loss allowed in 2010		3,000
+Capital loss carryover to 2011	$ 0	$ (2,000)
+Step 2: Net your capital gains and losses to determine the amount of capital gain income to include in total taxable income and California taxable income.
+
+Taxable Year 2011	Total Taxable Income	CA Taxable Income
+CA capital gain	$ 9,000	$ 9,000
+CA capital loss	(5,000)	(5,000)
+TX capital gain	8,000	
+Total	$ 12,000	$ 4,000
+Capital loss carryover from 2010	0	(2,000)
+Capital gain income	$ 12,000	$ 2,000
+Part-Year Resident
+If you changed your residency during 2009, compute income and deductions using resident rules for the period of the year you were a California resident and nonresident rules for the period of the year you were a nonresident. Compute any prior year carryover loss as if you were a California resident for all prior years and as if you were a nonresident for all prior years. Prorate both capital loss carryover amounts based upon the period of California residency and the period of nonresidency during the year.
+
+Example 25
+You became a California resident on July 1, 2009. Your total and California source capital gains and losses for 2009 are as follows:
+
+Before July 1	After July 1
+Total capital gains	$ 10,000	$ 8,000
+CA source capital gains	7,000	4,000
+Total capital losses	(2,000)	(3,000)
+CA source capital losses	(1,000)	(3,000)
+Your capital loss carryover from 2008 was $7,000, as if you had been a California resident for all prior years and $5,000, as if you had been a nonresident for all prior years.
+
+Determination
+Step 1: Net your total capital gains and losses for the period of residency and your California source capital gains and losses for the period of nonresidency.
+
+CA capital gains, before July 1, 2009	$ 7,000
+CA capital losses, before July 1, 2009	(1,000)
+Total capital gains, after July 1, 2009	8,000
+Total capital losses, after July 1, 2009	(3,000)
+Capital gain before carryover losses	$11,000
+Step 2: Prorate your capital loss carryover amounts based upon periods of California residency and nonresidency during 2009.
+
+Period of Residency
+2008 carryover, as if a CA resident for all prior years	$(7,000)
+CA resident days ÷ total days—184 ÷ 365	× .5041
+Prorated 2008 capital loss carryover	$(3,529)
+Period of Nonresidency
+2008 carryover, as if a nonresident for all prior years	$(5,000)
+Nonresident days ÷ total days—181 ÷ 365	× .4959
+Prorated 2008 capital loss carryover	$(2,479)
+Step 3: Compute your capital gain or loss to include in California taxable income.
+
+Taxable Year 2009	CA Taxable Income
+Capital gain before carryover losses	$11,000
+Capital loss carryover, resident period	(3,529)
+Capital loss carryover, nonresident period	(2,479)
+Capital gain, 2009	$ 4,992
+Get California 540NR, Nonresident or Part-Year Resident Booklet, for more information regarding the reporting of capital gains and losses.
+
+I. Passive Activities
+For taxable years beginning on or after January 1, 2002, the present laws provide rules for determining the amount of allowed passive activity losses and suspended losses if you are a nonresident of California or if you change your residency status.
+
+Always a Nonresident
+If you have always been a nonresident of California, you determine the allowed passive activity losses and suspended losses based only upon California source passive income and loss items to compute California taxable income. Only California source passive losses carry forward into the following year.
+
+Example 26
+You have always been a resident of Texas. Prior to 2009, you were not engaged in any passive activities. During 2009, you purchased rental properties in both California and Texas. In 2009, your California and non-California source passive income and losses included California rental income of $2,000, California rental losses of $30,000, and Texas rental income of $4,000.
+
+Determination
+Based upon the netting of your passive income and losses and the allowance of up to $25,000 for rental losses, determine your passive losses allowed in 2009 and suspended to 2010 as follows:
+
+Taxable Year 2009	Total Taxable Income	CA Taxable Income
+CA rental income	$ 2,000	$ 2,000
+CA rental losses	(30,000)	(30,000)
+TX rental income	4,000	
+Total	$ (24,000)	$ (28,000)
+Allowed rental losses	24,000	25,000
+Suspended loss to 2010	$ 0	$ (3,000)
+Example 27
+You have always been a resident of New York. Prior to 2009, you were not engaged in any passive activities. During 2009, you became engaged in California and non-California passive activities. In 2009, your passive income and losses included California source partnership income of $2,000, California source S corporation losses of $8,000, and New York partnership income of $3,000.
+
+Determination
+Based upon the netting of your passive income and losses, determine your suspended losses to be carried forward to 2010 as follows:
+
+Taxable Year 2009	Total Taxable Income	CA Taxable Income
+CA partnership income	$ 2,000	$ 2,000
+CA S corporation loss	(8,000)	(8,000)
+NY partnership income	3,000	
+Suspended loss to 2010	$ (3,000)	$ (6,000)
+Change of Residency to California (move in)
+For taxable years beginning on or after January 1, 2002, if you had suspended passive losses and were a nonresident of California in prior years, the suspended passive losses need to be restated as if you had been a California resident for all prior years.
+
+Example 28
+Assume the same facts as Example 27. On January 1, 2010, you become a California resident. In 2010, your passive income and losses include California source partnership income of $3,000, California source S corporation losses of $1,000, and New York source partnership income of $7,000.
+
+Determination
+Step 1: Restate your 2009 suspended passive loss as if you had been a California resident for 2009.
+
+2009 Restatement:	Total Taxable Income
+CA partnership income	$ 2,000
+CA S corporation loss	(8,000)
+NY partnership income	3,000
+Suspended passive loss to 2010	$ (3,000)
+Step 2: Net your passive income and losses to determine the amount of passive income to include in total taxable income.
+
+Taxable Year 2010	Total Taxable Income
+CA partnership income	$ 3,000
+CA S corporation loss	(1,000)
+NY partnership income	7,000
+Total	$ 9,000
+Suspended passive loss, 2009	(3,000)
+Passive income, 2010	$ 6,000
+Change of Residency From California (move out)
+For taxable years beginning on or after January 1, 2002, if you have suspended passive losses and you become a nonresident of California, your suspended passive losses need to be restated as if you had been a nonresident of California for all prior years.
+
+Example 29
+Assume the same facts as Examples 27 and 28. On January 1, 2011, you become a nonresident of California again. During 2011, your passive income and losses include California source partnership income of $15,000, California source S corporation losses of $7,000, and New York source partnership income of $2,000.
+
+Determination
+Step 1: Restate your suspended passive losses as if you had been a nonresident of California for all prior years by netting passive income and passive losses from California sources only.
+
+2009 Restatement:
+Total Taxable Income	CA Taxable Income
+CA partnership income	$ 2,000	$ 2,000
+CA S corporation loss	(8,000)	(8,000)
+NY partnership income	3,000	
+Suspended passive loss to 2010	$ (3,000)	$ (6,000)
+2010 Restatement:
+Total Taxable Income	CA Taxable Income
+CA partnership income	$ 3,000	$ 3,000
+CA S corporation loss	(1,000)	(1,000)
+NY partnership income	7,000	
+Total	$ 9,000	$ 2,000
+Suspended loss from 2009	(3,000)	(6,000)
+Income or suspended loss, 2010	$ 6,000	$ (4,000)
+Step 2: Net your passive income and losses to determine the amount of passive income to include in total taxable income and California taxable income.
+
+Taxable Year 2011	Total Taxable Income	CA Taxable Income
+CA partnership income	$ 15,000	$ 15,000
+CA S corporation loss	(7,000)	(7,000)
+NY partnership income	2,000	
+Total	$ 10,000	$ 8,000
+Suspended loss from 2010	0	(4,000)
+Passive income, 2011	$ 10,000	$ 4,000
+Part-Year Resident
+If you changed your residency during 2010, compute income and deductions using resident rules for the period of the year you were a California resident and nonresident rules for the period of the year you were a nonresident. Compute any suspended passive losses as if you were a California resident for all prior years and as if you were a nonresident for all prior years. Prorate both suspended passive loss amounts based upon the period of California residency and the period of nonresidency during the year.
+
+Example 30
+You became a nonresident of California on October 1, 2010. Your passive activities did not include any rental properties. Your total and California source passive income and losses for 2010 were as follows:
+
+Before 10/1	After 10/1
+Total passive income	$ 13,500	$ 4,500
+CA passive income	7,500	2,500
+Total passive losses	(3,000)	(1,000)
+CA passive losses	(6,000)	(2,000)
+Your suspended passive loss from 2009 was $7,000, restated as if you had been a California resident for all prior years and $5,000, restated as if you had been a nonresident for all prior years.
+
+Determination
+Step 1: Net your total passive income and losses for the period of residency and your California source passive income and losses for the period of nonresidency.
+
+Total passive income, before October 1, 2010	$13,500
+Total passive losses, before October 1, 2010	(3,000)
+CA passive income, after October 1, 2010	2,500
+CA passive losses, after October 1, 2010	(2,000)
+Passive income before suspended losses	$11,000
+Step 2: Prorate your suspended passive loss carryover amounts based upon periods of California residency and nonresidency during 2010.
+
+Period of Residency
+2009 suspended loss, as if a CA resident for all prior years	$(7,000)
+CA resident days ÷ total days
+273 ÷ 365	× .7479
+Prorated 2009 suspended loss	$(5,235)
+Period of Nonresidency
+2009 suspended loss, as if a non-resident for all prior years	$(5,000)
+Nonresident days ÷ total days
+92 ÷ 365	× .2521
+Prorated 2009 suspended loss	$(1,260)
+Step 3: Compute your passive income or suspended loss for taxable year 2010.
+
+Taxable Year 2010	CA Taxable Income
+Passive income before suspended losses	$11,000
+Suspended passive loss, resident period	(5,235)
+Suspended passive loss, nonresident period	(1,260)
+Passive income, 2010	$ 4,505
+Get FTB 3801, Passive Activity Loss Limitations, for more information regarding the reporting of passive activity losses.
+
+J. Net Operating Losses
+For taxable years beginning on or after January 1, 2002, the net operating loss (NOL) carryover computation for the California taxable income of a nonresident or part-year resident is no longer limited by the amount of NOL from all sources. Only your California sourced income and losses are considered in determining if you have a California NOL.
+
+Suspended Net Operating Loss Carryovers
+2002 and 2003
+For taxable years beginning in 2002 and 2003, California suspended NOL deductions. Taxpayers may continue to compute and carryover an NOL during the suspension period.
+
+2008 through 2011
+For taxable years beginning in 2008 and 2009, California suspended NOL carryover deductions with the exception of individual taxpayers with net business income of less than $500,000. Taxpayers may continue to compute and carryover an NOL during the suspension period.
+
+For taxable years beginning in 2010 and 2011, California suspended NOL carryover deductions with the exception of individual taxpayers with modified adjusted gross income of less than $300,000. Taxpayers may continue to compute and carryover an NOL during the suspension period.
+
+Get FTB 3805V, Net Operating Loss (NOL) Computation and NOL and Disaster Loss Limitations‑Individuals, Estates, and Trusts, at ftb.ca.gov for more information regarding NOLs.
+
+Always a Nonresident
+For taxable years beginning on or after January 1, 2002, the NOL carryover computation for the California taxable income of a nonresident is no longer limited by the amount of net operating loss from all sources. Only your California sourced income and losses are considered in determining if you have a California NOL.
+
+Example 31 (2001 and 2002 taxable years)
+You are a resident of Nevada and operate two businesses. One business is conducted wholly within California and the other business is conducted wholly within Nevada.
+
+In 2001 and 2002, your businesses produced the following results:
+
+Taxable Year 2001	Income/Loss all Sources	CA Source Income/Loss
+NV business	$ 7,000	
+CA business	(2,000)	$ (2,000)
+Total	$ 5,000	$ (2,000)
+Taxable Year 2002	Total Taxable Income	CA Taxable Income
+NV business	$ 9,000	
+CA business	(3,000)	$ (3,000)
+Total	$ 6,000	$ (3,000)
+Determination
+Taxable year 2001 (prior law): Your NOL is limited to the amount of your NOL from all sources. Because you did not have an NOL from all sources, you were not allowed an NOL for California tax purposes.
+
+Taxable year 2002 (present law): Only your California sourced income and losses are considered in determining if you have a California NOL. For 2002, you have a California NOL of $3,000. You may carry forward $1,800 (60 percent of the $3,000 NOL).
+
+Always a Nonresident
+For taxable years 2008 through 2011, the NOL deduction is suspended. However, taxpayers that meet certain income exceptions in these years are not subject to the suspension.
+
+Example 32 (2008 through 2010 taxable years)
+Assume the same facts as Example 31. For taxable years 2003 through 2007 you have no income or loss from your California or Nevada business. In taxable year 2008 through 2010 you only have income and loss from each business as follows:
+
+Taxable Year 2008	Total Taxable Income	CA Taxable Income
+NV business	$150,000	
+CA business	1,000	$1,000
+Total	$151,000	$1,000
+Taxable Year 2009	Total Taxable Income	CA Taxable Income
+NV business	$ 500,000	
+CA business	(200,000)	$ (200,000)
+Total	$ 300,000	$ (200,000)
+Taxable Year 2010	Total Taxable Income	CA Taxable Income
+NV business	$375,000	
+CA business	100,000	$100,000
+Total	$465,000	$100,000
+Determination
+Taxable Year 2008: Only your business income from California sources is used in determining the exception to the NOL suspension. Your California source income of $1,000 does not exceed $500,000 of net business income. Therefore, you are allowed an NOL carryover deduction. Your carryover of $1,800 from taxable year 2002 is partially absorbed in 2008 against your California source business income of $1,000. You can carry the remaining $800 to future years until it expires or is absorbed.
+
+Taxable Year 2009: Although you produced net business income from all sources, your California source business income resulted in a net loss. Your net loss of $200,000 will be combined with your previous loss carryover of $800. These amounts will be carried to future years until expired or absorbed.
+
+Taxable Year 2010: In this example, business income is equal to modified adjusted gross income. Since modified adjusted gross income exceeds $300,000, you are subject to the suspension and are not allowed an NOL carryover deduction. The remaining $200,800 may be carried over to future years until expired or absorbed.
+
+Change of Residency to California (move in)
+If you change residency to California and have NOL carryovers, you need to restate your carryover amounts as if you were a resident of California for all prior years.
+
+Example 33
+You became a California resident on January 1, 2010, moving from Texas. You started a business in Texas in 2003 and opened a different business located in California in 2004. You had no income or loss from either business in 2004 through 2007. Under California law, the income and loss from each business are as follows:
+
+Business Location	2003	2008	2009	2010
+California		$250,000	$(25,000)	$ 15,000
+Texas	$(125,000)	$ 300,000	$ 50,000	$ 5,000
+Determination
+Step 1: First restate your NOL carryovers for prior years as if you were a California resident:
+
+2003 Restatement:	Total Taxable Income
+2003 NOL	$(125,000)
+Allowable Percentage	× 60%
+NOL carryover to 2004	$ (75,000)
+2008 Restatement:	Total Taxable Income
+Business Income	$ 550,000
+Prior NOL carryover	$ (75,000)
+Net business income exceeds $500,000. Your NOL carryover deduction is suspended.
+
+2009 Restatement:	Total Taxable Income
+Business Income	$ 25,000
+Prior NOL carryover	(75,000)
+NOL carryover to 2010	$ (50,000)
+Step 2: Combine your business income from all sources to determine your NOL carryover to 2011.
+
+Taxable Year 2011	Total Taxable Income
+CA source income	$ 15,000
+TX source income	5,000
+Total	$ 20,000
+Prior year NOL carryover	(50,000)
+NOL carryover to 2011	(30,000)
+Change of Residency From California (move out)
+If you change residence from California and have NOL carryovers, you need to restate your carryover amounts as if you were a nonresident of California for all prior years.
+
+Example 34
+Assume the same facts as Example 33. You became a nonresident of California on January 1, 2011. Your Texas and California businesses earn income of $3,000 and $4,000 respectively.
+
+Determination
+Restate your NOL carryover as if you had been a nonresident of California for all prior years by netting business income and losses from California sources only.
+
+2003 Restatement:
+Total Taxable Income	CA Taxable Income
+TX source business loss	$ (125,000)	
+CA NOL carryover allowed percentage, 2003	× 60%	
+NOL carryover to 2004	$ (75,000)	$ 0
+2008 Restatement:
+Total Taxable Income	CA Taxable Income
+TX source business income	$300,000	
+CA source business loss	250,000	$250,000
+Total	$550,000	$250,000
+Prior year NOL carryover	$ (75,000)	$ 0
+You cannot use your NOL carryover in determining total taxable income because your net business income exceeds $500,000. You do not have a California source NOL to carryover for California taxable income.
+
+2009 Restatement:
+Total Taxable Income	CA Taxable Income
+TX source business income	$ 50,000	
+CA source business income	(25,000)	$(25,000)
+Total	25,000	$(25,000)
+Prior year NOL carryover	(75,000)	0
+Carryover to 2010	$(50,000)	$(25,000)
+2010 Restatement:
+Total Taxable Income	CA Taxable Income
+TX source business income	$ 5,000	
+CA source business loss	15,000	$ 15,000
+Total	20,000	15,000
+Prior year NOL carryover	(50,000)	(25,000)
+Carryover to 2011	$(30,000)	$ 10,000)
+Part-Year Resident
+If you changed your residency during the year, compute your NOL deduction using resident rules for the period of the year you were a California resident and nonresident rules for the period of the year you were a nonresident. Compute any NOL carryovers as if you were a California resident for all prior years and as if you were a nonresident for all prior years. Prorate both NOL carryover amounts based upon the period of California residency and the period of nonresidency during the year.
+
+Example 35
+You moved to California on May 1, 2010. Your total and California source income and losses from your Washington and California business operations for 2010 were as follows:
+
+Before 5/1	After 5/1
+WA business	$14,000	$ (26,000)
+CA business	(2,000)	10,000
+Total	$12,000	$ (16,000)
+Your NOL carryover from prior years is $6,000 as if you were a resident for all prior years and $3,000 as if you were a nonresident for all prior years.
+
+Determination
+Step 1: Compute your current year NOL by netting your total business income and losses for the period of residency and your California source business income and losses for the period of nonresidency:
+
+CA business losses, before May 1, 2010	$ (2,000)
+Total business losses, after May 1, 2010	(16,000)
+Total	(18,000)
+Current year NOL, 2010	$(18,000)
+Step 2: Prorate your NOL carryover amounts based upon periods of California residency and nonresidency during 2010.
+
+Period of Residency
+NOL carryover, as if a CA resident for all prior years	$(6,000)
+CA resident days ÷ total days: 245 ÷ 366	× .6712
+Prorated NOL carryover	$(4,027)
+Period of Nonresidency
+NOL carryover, as if a nonresident for all prior years	$(3,000)
+Nonresident days ÷ total days: 121 ÷ 366	× .3288
+Prorated NOL carryover	$ (986)
+Step 3: Compute your prior year NOL carryover:
+
+Prior year NOL carryover
+NOL carryover from prior years, resident period	$(4,027)
+NOL carryover from prior years, nonresident period	(986)
+Total NOL carryover from 2010	$(5,013)
+K. Basis in Pass-Through Entities
+Pass-through entities include partnerships, S corporations, and limited liability companies that elect to be treated as partnerships.
+
+Always a Nonresident
+Your basis in a pass-through entity for California purposes is equal to your federal tax basis adjusted for differences in federal and California law. For example, allowable depreciation or amortization expenses are different under California and federal law.
+
+Example 36
+You are a resident of Nevada. In 2009, you invested $10,000 cash in a partnership and became a 50 percent partner. At the close of 2009, the partnership generated a $4,000 federal loss and a $2,000 California loss. This difference is due to federal depreciation expense being more than allowed under California law.
+
+Compute your year-end California basis in the partnership as follows:
+
+ 	Federal Law	Difference	California Law	Fed Basis	California Basis
+1/1/2009 Cash Contribution to Capital	-	-	-	-	$10,000	$10,000
+Partnership's CA Loss	-	$(4,000)	$2,000	$2,000	-	-
+Partner's Percentage Interest	50%	$(2,000)	$1,000	$(1,000)	$(2,000)	$(1,000)
+Partner's 12/31/2009 CA Basis (to 1/1/2010)	 	-	-	-	$8,000	$9,000
+Because of the difference in allowable depreciation and amortization expenses, the Partner's California PTE Basis will be different than the partner's federal PTE Basis.
+
+Change of Residency to California (move in)
+Your California basis in a pass-through entity is equal to your federal tax basis adjusted for differences in federal and California law. For example, allowable depreciation or amortization expenses are different under California law than for federal. Your California basis is adjusted for your distributive share of flow-through items under California law.
+
+Example 37
+Assume the same facts as Example 36. On January 1, 2010, you become a California resident. At the close of 2010, the partnership generates a $3,000 loss under California law.
+
+Compute your California basis in the partnership in the same manner as you would for federal purposes with adjustments for differences in California and federal law.
+
+ 	Federal Law	Difference	California Law	Fed Basis	California Basis
+1/1/2009 Cash Contribution to Capital	-	-	-	-	$10,000	$10,000
+Partnership's 2009 CA Loss	-	$(4,000)	$2,000	$2,000	-	-
+Partner's Percentage Interest	50%	$(2,000)	$1,000	$(1,000)	$(2,000)	$(1,000)
+Partner's 12/31/2009 CA Basis (to 1/1/2010)	 	-	-	-	$8,000	$9,000
+Partner's CA Basis (from 12/31/2009)	 	-	-	-	-	$9,000
+Partnership's 2010 CA Loss	-	-	-	$(3,000)	-	-
+Partner's Percentage Interest	50%	-	-	$(1,500)	-	$(1,500)
+Partner's 12/31/2010 CA Basis (to 1/1/2011)	 	-	-	-	-	$7,500
+Because of the difference in allowable depreciation and amortization expenses, the Partner's California PTE Basis will be different than their federal PTE Basis.
+
+Change of Residency From California (move out)
+Your California basis in a pass-through entity is equal to your federal tax basis adjusted for differences in federal and California law. For example, allowable depreciation or amortization expenses are different under California law than for federal. Your California basis is adjusted for your distributive share of flow-through items under California law.
+
+Example 38
+Assume the same facts as examples 36 and 37. On January 1, 2011, you become a nonresident of California again. At the close of 2011, the partnership generates a $5,000 loss.
+
+Compute your California basis in the partnership in the same manner as you would for federal purposes with adjustments for differences in California and federal law.
+
+ 	Federal Law	Difference	California Law	Fed Basis	California Basis
+1/1/2009 Cash Contribution to Capital	-	-	-	-	$10,000	$10,000
+Partnership's 2009 CA Loss	-	$(4,000)	$2,000	$(2,000)	-	-
+Partner's Percentage Interest	50%	$(2,000)	$1,000	$(1,000)	$(2,000)	$(1,000)
+Partner's 12/31/2009 CA Basis (to 1/1/2010)	 	-	-	-	$8,000	$9,000
+Partner's 1/1/2010 CA Basis (from 12/31/2009)	 	-	-	-	-	$9,000
+Partnership's 2010 CA Loss	-	-	-	$(3,000)	-	-
+Partner's Percentage Interest	50%	-	-	$(1,500)	-	$(1,500)
+Partner's 12/31/2010 CA Basis (to 1/1/2011)	 	-	-	-	-	$7,500
+Partner's 1/1/2011 CA Basis (from 12/31/2010)	 	-	-	-	-	$7,500
+Partnership's 2011 CA Loss	-	-	-	$(5,000)	-	-
+Partner's Percentage Interest	50%	-	-	$(2,500)	-	$(2,500)
+Partner's 12/31/2011 CA Basis (to 1/1/2012)	 	-	-	-	-	$ 5,000
+Because of the difference in allowable depreciation and amortization expenses, the Partner's California PTE Basis will be different than their federal PTE Basis.
+
+L. Partnerships, S corporations, and Certain Trusts
+Nonresident
+California taxes your distributive share of partnership, S corporation, and trust income derived from California sources if you are a nonresident of California. Income from a simple trust (one which distributes its income annually) is subject to these rules. Income from other trusts may also be subject to these rules.
+
+Example 39
+You are a nonresident of California and hold a partnership interest in a California partnership. You received a Schedule K-1 from the California partnership that included net income of $10,000 from California sources.
+
+Determination
+Your $10,000 distributive share of partnership net income has a source in California and is taxable by California.
+
+Part-Year Resident
+If you changed your residency during 2009, or during your partnership’s, S corporation’s, or trust’s taxable year beginning on or after January 1, 2002, California taxes your distributive share of partnership, S corporation, and certain trust income based upon your period of California residency and your period of nonresidency during the partnership’s, S corporation’s, or trust’s taxable year.
+
+The allocation of income between the period of residency and the period of nonresidency must be made in a manner that reflects the actual date of realization. In the absence of information that reflects the actual date of realization, you must allocate an annual amount on a proportional basis between the two periods, using a daily pro rata method.
+
+Example 40
+You hold a 50 percent S corporation interest in a Washington S corporation that reports income and losses on a fiscal year ending October 31st of each year. On June 10, 2009, you became a nonresident of California. You obtained interim statements from the S corporation that include the following S corporation net income amounts:
+
+11/1/08 – 6/9/09	6/10/09 – 10/31/09
+WA net income	$ 5,600	$ 4,400
+CA net income	4,000	2,000
+Total net income	$ 9,600	$ 6,400
+Determination
+Step 1: Compute your distributive share income based upon periods of California residency and nonresidency during the S corporation’s taxable year.
+
+Period of Residency
+Total net income	$ 9,600
+percent interest in S corporation	× 50%
+2009 distributive share	$ 4,800
+Period of Nonresidency
+CA net income	$ 2,000
+percent interest in S corporation	× 50%
+2009 distributive share	$ 1,000
+Step 2: Compute your distributive share income to include in California taxable income.
+
+Taxable Year 2009	CA Taxable Income
+Distributive share, period of residency	$ 4,800
+Distributive share, period of nonresidency	$1,000
+Distributive share income, 2009	$ 5,800
+Example 41
+You hold a 60 percent interest in a Washington partnership that reports income and losses on a calendar year basis. On September 22, 2009, you became a nonresident of California. You obtained a copy of the partnership tax return for 2009. The total net income from the partnership consisted of the following capital gains on items sold during your periods of California residency and nonresidency:
+
+January 1, 2009 - September 21, 2009
+Sale of WA real property	$ 15,200
+Sale of stock	2,000
+Total net income	$ 17,200
+September 22, 2009 - December 31, 2009
+Sale of WA real property	$ 4,400
+Sale of CA real property	10,300
+Total net income	$14,700
+Determination
+Step 1: Compute your distributive share income based upon periods of California residency and nonresidency during the partnership’s taxable year.
+
+Period of Residency
+Total net income	$17,200
+percent interest in partnership	× 60%
+2009 distributive share	$10,320
+Period of Nonresidency
+CA net income	$10,300
+percent interest in partnership	× 60%
+2009 distributive share	$ 6,180
+Step 2: Compute your distributive share income to include in California taxable income.
+
+Taxable Year 2009	CA Taxable Income
+Distributive share, period of residency	$10,320
+Distributive share, period of nonresidency	6,180
+Distributive share income, 2009	$16,500
+Example 42
+You hold a partnership interest in a Texas partnership that reports its income and losses on a calendar year basis. On April 1, 2009, you became a nonresident of California. You received a Schedule K-1 from the Texas partnership that included net income of $10,000, comprised of $4,000 from California sources and $6,000 from Texas sources.
+
+Determination
+Step 1: Determine the number of California resident days and nonresident days during the partnership’s taxable year.
+
+Period	Duration
+CA Nonresident Days	4/1/09 – 12/31/09	275 days
+CA Resident Days	1/1/09 – 3/31/09	90 days
+Step 2: Prorate your distributive share income based upon periods of California residency and nonresidency during the partnership’s taxable year.
+
+Period of Residency
+Distributive share income from all sources	$10,000
+CA resident days ÷ total days: 90 ÷ 365	× .2466
+Prorated 2009 distributive share	$ 2,466
+Period of Nonresidency
+Distributive share income from CA sources	$ 4,000
+Nonresident days ÷ total days: 275 ÷ 365	× .7534
+Prorated 2009 distributive share	$ 3,014
+Step 3: Compute your distributive share income to include in California taxable income.
+
+Taxable Year 2009	CA Taxable Income
+Distributive share, period of residency	$ 2,466
+Distributive share, period of nonresidency	3,014
+Distributive share income, 2009	$5,480
+Example 43
+You hold an S corporation interest in a Florida S corporation that reports income and losses on a fiscal year ending May 31st of each year. On February 1, 2009, you became a resident of California. You received a Schedule K-1 from the Florida S corporation for fiscal year ending May 31, 2009, that included net income of $10,000, comprised of $4,000 from California sources and $6,000 from Florida sources.
+
+Determination
+Step 1: Determine the number of California resident days and nonresident days during the S corporation’s taxable year.
+
+Period	Duration
+CA Nonresident Days	6/1/08 – 1/31/09	245 days
+CA Resident Days	2/1/09 – 5/31/09	120 days
+Step 2: Prorate your distributive share income based upon periods of California residency and nonresidency during the S corporation’s taxable year.
+
+Period of Residency
+Distributive share income from all sources	$10,000
+CA resident days ÷ total days: 120 ÷ 365	× .3288
+Prorated 2009 distributive share	$ 3,288
+Period of Nonresidency
+Distributive share income from CA sources	$ 4,000
+Nonresident days ÷ total days: 245 ÷ 365	× .6712
+Prorated 2009 distributive share	$ 2,685
+Step 3: Compute your distributive share income to include in California taxable income.
+
+Taxable Year 2009	CA Taxable Income
+Distributive share, period of residency	$ 3,288
+Distributive share, period of nonresidency	2,685
+Distributive share income, 2009	$ 5,973
+Example 44
+You are the sole beneficiary of a simple trust that reported your distributive share income for the short period of January 1, 2009, through September 30, 2009. On April 1, 2009, you became a resident of California. You received a Schedule K-1 from the trust that includes net income of $10,000, comprised of $4,000 from California sources and $6,000 from Nevada sources.
+
+Determination
+Step 1: Determine the number of California resident days and nonresident days during the trust’s taxable year.
+
+Period	Duration
+CA Nonresident Days	1/1/09 – 3/31/09	90 days
+CA Resident Days	4/1/09 – 9/30/09	183 days
+Step 2: Prorate your distributive share income based upon periods of California residency and nonresidency during the trust’s taxable year.
+
+Period of Residency
+Distributive share income from all sources	$10,000
+CA resident days ÷ total days—183 ÷ 273	× .6703
+Prorated 2009 distributive share	$ 6,703
+Period of Nonresidency
+Distributive share income from CA sources	$ 4,000
+Nonresident days ÷ total days—90 ÷ 273	× .3297
+Prorated 2009 distributive share	$ 1,319
+Step 3: Compute your distributive share income to include in California taxable income.
+
+Taxable Year 2009	CA Taxable Income
+Distributive share, period of residency	$ 6,703
+Distributive share, period of nonresidency	1,319
+Distributive share income, 2009	$ 8,022
+M. Alternative Minimum Tax
+The present laws change the alternative minimum tax computation for nonresidents and part-year residents to parallel the changes in the regular tax computation.
+
+The California alternative minimum tax of a nonresident or part-year resident is the amount by which the California tentative minimum tax exceeds the prorated regular tax. The computation is as follows:
+
+CA alternative minimum tax = CA tentative minimum tax − Prorated regular tax
+
+The California tentative minimum tax is the California alternative minimum taxable income multiplied by a rate. The rate is the amount of tax on total tentative minimum tax divided by the total alternative minimum taxable income. The computation is as follows:
+
+CA tentative minimum tax = CA alternative minimum taxable income × Total tentative minimum tax ÷ Total alternative minimum taxable income
+
+The California alternative minimum taxable income is the combined total of the following:
+
+The alternative minimum taxable income derived from California sources for any part of the taxable year the taxpayer was a nonresident.
+The alternative minimum taxable income from all sources for any part of the taxable year the taxpayer was a resident.
+For the period of nonresidency, any carryovers, deferred income, suspended losses, or suspended deductions are included or allowable only to the extent they were derived from California sources.
+
+The total alternative minimum taxable income is the alternative minimum taxable income determined as if the nonresident or part-year resident were a California resident in both of the following:
+
+Current year.
+All prior years for any carryovers, deferred income, suspended losses, or suspended deductions.
+Total tentative minimum tax is the tax on the total alternative minimum taxable income.
+
+The following example shows how the calculation works:
+
+Example 45
+You and your spouse/RDP moved to California and became residents on May 1, 2009. Combined wages for the year totaled $170,000. You received $100,000 after your move to California. On October 1, 2009, you exercised an incentive stock option valued at $90,000, for which you paid $10,000 (preference amount $80,000). Your total taxable income for the year was $150,000, with $20,000 in itemized deductions. Five thousand dollars ($5,000) of the itemized deductions were real and personal property taxes, which are preference items. Your prorated regular tax was $6,000.
+
+Determination
+Total Alternative Minimum Taxable Income
+Real and personal property tax preference	5,000
+Plus: Incentive stock option preference	+ 80,000
+Plus: Total taxable income	+ 150,000
+Total alternative minimum taxable income	235,000
+Total Tentative Minimum Tax
+Total alternative minimum taxable income	235,000
+Less: Exemption amount	− 78,817
+Total alternative minimum taxable income less Exemption amount	156,183
+Alternative minimum tax rate	× .07
+Total tentative minimum tax	11,323
+California Alternative Minimum Tax Adjusted Gross Income
+CA (regular tax) adjusted gross income	100,000
+Plus: Incentive stock option preference amount	+ 80,000
+CA alternative minimum tax adjusted gross income	180,000
+Total Alternative Minimum Tax Adjusted Gross Income
+Total alternative minimum taxable income	235,000
+Total itemized deductions	20,000
+Less: Real and personal property tax preference	− 5,000
+Total alternative minimum tax itemized deductions	+ 15,000
+Total alternative minimum tax adjusted gross income	250,000
+California Alternative Minimum Taxable Income
+Total alternative minimum tax itemized deductions	15,000
+Multiply by the ratio: CA alternative minimum tax adjusted gross income ÷ Total alternative minimum tax adjusted gross income
+180,000 ÷ 250,000 =	× .7200
+Less: Prorated alternative minimum tax itemized deductions	− 10,800
+CA alternative minimum taxable income	169,200
+California Alternative Minimum Tax
+CA alternative minimum taxable income	169,200
+Multiply by the ratio: Total tentative minimum tax ÷ Total alternative minimum taxable income
+11,323 ÷ 235,000 =	× .0482
+CA tentative minimum taxable income	8,561
+Less: Prorated regular tax	− 6,000
+CA alternative minimum tax	2,561
+Get California 540NR Schedule P, Alternative Minimum Tax and Credit Limitations - Nonresidents and Part‑Year Residents, for more information regarding California alternative minimum tax.
